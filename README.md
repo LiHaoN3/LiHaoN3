@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @haojinxxx
-- 👀 I’m interested in: sleeping and leches
-- 🌱 I’m currently learning: not very much
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: please don't
+- 👋 Hi, I’m Jinx
+- 👀 I’m interested in: mostly everything
+- 🌱 I’m currently learning: 
+- 💞️ I’m looking to collaborate on: something
+- 📫 How to reach me: 
 
 <!---
 haojinxxx/haojinxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
