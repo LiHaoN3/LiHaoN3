@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jinx
+- 👋 Hi, I’m Linn
 - 👀 I’m interested in: mostly everything
 - 🌱 I’m currently learning: 
 - 💞️ I’m looking to collaborate on: something
