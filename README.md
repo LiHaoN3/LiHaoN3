@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Linn
-- 👀 I’m interested in: mostly everything
-- 🌱 I’m currently learning: 
-- 💞️ I’m looking to collaborate on: something
+- 🏫 Studying: second year IT at Chalmers
+- 🌱 I’m looking to collaborate on: projects
 - 📫 How to reach me: 
 
 <!---
