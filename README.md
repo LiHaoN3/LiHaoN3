@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Linn
-- 🏫 Studying: second year IT at Chalmers
-- 🌱 I’m looking to collaborate on: projects
-- 📫 How to reach me: 
+- 👋 Hi, I’m Linn Lindgren
+- 📚 Studying: third year IT at Chalmers
+- 🌱 How to reach me: 
 
 <!---
 haojinxxx/haojinxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
